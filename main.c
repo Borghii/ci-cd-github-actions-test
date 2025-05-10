@@ -1,8 +1,5 @@
 #include <stdio.h>
-
-int suma(int a, int b) {
-    return a + b;
-}
+#include "funciones.h"
 
 int main() {
     printf("2 + 3 = %d\n", suma(2, 3));
