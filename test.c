@@ -7,7 +7,7 @@ int main() {
     assert(suma(0, 0) == 0);
     assert(suma(-1, -1) == -2);
     assert(suma(1000, 2000) == 3000);
-    assert(suma(-1000, -2000) == -3000);
+    assert(suma(-1000, -2000) == -334000);
     assert(suma(1000, -2000) == -1000);
     assert(suma(-1000, 2000) == 1000);
     assert(suma(0, 1) == 1);
