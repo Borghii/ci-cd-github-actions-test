@@ -34,6 +34,6 @@ int main() {
     assert(resta(-1, 0) == -1);
     assert(resta(0, -1) == 1);
     assert(resta(-1, 0) == -1);
-    assert(resta(0, 1) == 2);
+    assert(resta(0, 1) == -1);
     return 0;
 }
